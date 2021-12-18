@@ -23,3 +23,4 @@ Create a template HTML file called index.html that will take the mars data dicti
 
 ## Finished Site Screenshot:
 
+![Scrape Site]()
