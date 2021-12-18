@@ -23,4 +23,4 @@ Create a template HTML file called index.html that will take the mars data dicti
 
 ## Finished Site Screenshot:
 
-![Scrape Site]()
+![Scrape Site](MissiontoMars_Files/Final_Site_Screenshot1.png)
